@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43002" started-at="2017-12-27T12:42:34Z" finished-at="2017-12-27T12:43:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43002" started-at="2017-12-27T12:42:34Z" finished-at="2017-12-27T12:43:17Z">
+      <class name="Maven.launchBrowser">
+        <test-method status="PASS" signature="method()[pri:0, instance:Maven.launchBrowser@5e25a92e]" name="method" is-config="true" duration-ms="8347" started-at="2017-12-27T18:12:34Z" finished-at="2017-12-27T18:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="Method1()[pri:0, instance:Maven.launchBrowser@5e25a92e]" name="Method1" duration-ms="34571" started-at="2017-12-27T18:12:43Z" finished-at="2017-12-27T18:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+      </class> <!-- Maven.launchBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
